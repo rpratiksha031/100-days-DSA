@@ -16,5 +16,25 @@ The goal is simple: solve **200 Data Structures and Algorithms problems** in **1
 - ✅ Daily commits with explanations
 - 🔄 Weekly revision of learned concepts
 
-## 📂 Folder Structure
+## 📌 Platforms Used
+
+- [LeetCode](https://leetcode.com/)
+- [GeeksforGeeks](https://practice.geeksforgeeks.org/)
+
+## 🚀 Why This Challenge?
+
+To improve:
+- ✅ Problem-solving skills
+- ✅ Coding speed
+- ✅ Confidence for interviews & competitive coding
+
+## 🔥 Join Me?
+
+Fork this repo, start your own challenge, and let’s grow together!  
+Use `#100DaysOfDSA` if you're sharing on socials.
+
+---
+
+**Let the grind begin! 💻⚔️**
+
 
